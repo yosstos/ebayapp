@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ebayapp/static/css/main.515a4737.chunk.css",
+    "main.js": "/ebayapp/static/js/main.9abfb7a0.chunk.js",
+    "main.js.map": "/ebayapp/static/js/main.9abfb7a0.chunk.js.map",
+    "runtime-main.js": "/ebayapp/static/js/runtime-main.2b4dfad2.js",
+    "runtime-main.js.map": "/ebayapp/static/js/runtime-main.2b4dfad2.js.map",
+    "static/js/2.300298d7.chunk.js": "/ebayapp/static/js/2.300298d7.chunk.js",
+    "static/js/2.300298d7.chunk.js.map": "/ebayapp/static/js/2.300298d7.chunk.js.map",
+    "static/js/3.d6f7b3b2.chunk.js": "/ebayapp/static/js/3.d6f7b3b2.chunk.js",
+    "static/js/3.d6f7b3b2.chunk.js.map": "/ebayapp/static/js/3.d6f7b3b2.chunk.js.map",
+    "index.html": "/ebayapp/index.html",
+    "static/css/main.515a4737.chunk.css.map": "/ebayapp/static/css/main.515a4737.chunk.css.map",
+    "static/js/2.300298d7.chunk.js.LICENSE.txt": "/ebayapp/static/js/2.300298d7.chunk.js.LICENSE.txt",
+    "static/media/rover-about.f3bd7277.jpg": "/ebayapp/static/media/rover-about.f3bd7277.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4dfad2.js",
+    "static/js/2.300298d7.chunk.js",
+    "static/css/main.515a4737.chunk.css",
+    "static/js/main.9abfb7a0.chunk.js"
+  ]
+}
